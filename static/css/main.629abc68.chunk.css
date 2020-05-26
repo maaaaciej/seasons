@@ -1,0 +1,2 @@
+.icon-left{position:absolute;top:40px;left:40px}.icon-right{position:absolute;bottom:40px;right:40px}.season-display.winter i{color:#00f}.season-display.summer i{color:#ff4500}.season-display{display:flex;justify-content:center;align-items:center;height:100vh}.summer{background:#ffcf7f;background:radial-gradient(circle,#ffcf7f 0,#ff9d9d 100%)}.winter{background:#7ff7ff;background:radial-gradient(circle,#7ff7ff 0,#9db1ff 100%)}.loading{display:flex;justify-content:center;align-items:center;height:100vh}
+/*# sourceMappingURL=main.629abc68.chunk.css.map */
